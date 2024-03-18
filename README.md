@@ -36,6 +36,6 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/s1.PNG">
-<img src="https://github.com/Spidy20/LandMark_Detection/blob/master/s2.PNG">
+<img src="s1.PNG">
+<img src="s2.PNG">
 
